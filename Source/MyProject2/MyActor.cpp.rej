@@ -1,7 +1,0 @@
-diff a/Source/MyProject2/MyActor.cpp b/Source/MyProject2/MyActor.cpp	(rejected hunks)
- 
- AMyActor::AMyActor()
- {
--	PrimaryActorTick.bCanEverTick = true;
- }
- 
